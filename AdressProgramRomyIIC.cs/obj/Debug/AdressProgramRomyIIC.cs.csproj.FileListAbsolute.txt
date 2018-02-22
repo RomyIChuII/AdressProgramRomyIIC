@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\AdressProgramRomyIIC.cs\AdressProgramRomyIIC.cs\bin\Debug\AdressProgramRomyIIC.cs.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\AdressProgramRomyIIC.cs\AdressProgramRomyIIC.cs\bin\Debug\AdressProgramRomyIIC.cs.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\AdressProgramRomyIIC.cs\AdressProgramRomyIIC.cs\bin\Debug\AdressProgramRomyIIC.cs.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\AdressProgramRomyIIC.cs\AdressProgramRomyIIC.cs\obj\Debug\AdressProgramRomyIIC.cs.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\AdressProgramRomyIIC.cs\AdressProgramRomyIIC.cs\obj\Debug\AdressProgramRomyIIC.cs.frmAddressProgramRomyIIC.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\AdressProgramRomyIIC.cs\AdressProgramRomyIIC.cs\obj\Debug\AdressProgramRomyIIC.cs.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\AdressProgramRomyIIC.cs\AdressProgramRomyIIC.cs\obj\Debug\AdressProgramRomyIIC.cs.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\AdressProgramRomyIIC.cs\AdressProgramRomyIIC.cs\obj\Debug\AdressProgramRomyIIC.cs.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Introduction\AdressProgramRomyIIC.cs\AdressProgramRomyIIC.cs\obj\Debug\AdressProgramRomyIIC.cs.pdb
